@@ -11,16 +11,26 @@ texto = "esto es ota linea, \n holaa"
 print("texto")
 print(" wste texto\texto")
 texto_2="eeste texto sirve para trabajar en string"
-print(texto_2, numero)
-numero= 80
+print(texto_2, "numero")
+numero=80
+
 
 ###funcion f:
 
 print(f"eeste texto sirve para trabajar en string")
-
+print("f")
 
 
 
 
 #############a##################
-
+print("a")
+#################
+print(3 != 4)
+print("como funcionan los operadores comparativos con cadenas de texto\n")
+print("hola"> "comoestas")
+print("hola"> "si")
+print("hola" > "phyton")
+print(len("aaaa") >= len("aaaaaaa"))
+print(len("aaaaaaaaaaaaa"))
+print(3 > 4 and "hola" > "phyton")
